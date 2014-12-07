@@ -1,0 +1,1 @@
+[Blog Post](http://rohitrox.github.io/2014/12/06/embercli-and-rails-and-beyond/) | [Demo](https://embercli-rails.herokuapp.com/)
